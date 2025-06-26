@@ -1,2 +1,2 @@
 # Wanderlust
-It is a ongoing full stack project using mern stack
+Wanderlust – Travel Destination Listing App
